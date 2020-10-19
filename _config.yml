@@ -3,8 +3,8 @@ title:              Mim.TV
 bio:                'Miriam Mintz, maker of television.'
 description:        "Miriam Mintz, maker of television."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "mimtv.github.io/mimtv" # the base hostname & protocol for your site
+baseurl: "/mimtv" # the subpath of your site, e.g. /blog
+url: "mimtv.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
