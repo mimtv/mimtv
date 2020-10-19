@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Mim.TV
+bio:                'Miriam Mintz, maker of television.'
+description:        "Miriam Mintz, maker of television."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "mimtv.github.io/mimtv" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
